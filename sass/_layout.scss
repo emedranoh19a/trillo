@@ -47,6 +47,8 @@
   margin-right: 4.5rem;
 }
 .user-reviews {
-  background-color: yellowgreen;
   flex: 1; //The remaining space
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
